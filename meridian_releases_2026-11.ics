@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Meridian Macro releases November 2026
 BEGIN:VEVENT
 UID:meridian-2026-11-0@meridianmacroweekly.substack.com
-DTSTAMP:20261109T120805Z
+DTSTAMP:20261109T121202Z
 DTSTART:20261110T133000Z
 DTEND:20261110T140000Z
 SUMMARY:US CPI and Real Earnings\, Oct
@@ -15,7 +15,7 @@ URL:https://www.bls.gov/cpi/
 END:VEVENT
 BEGIN:VEVENT
 UID:meridian-2026-11-1@meridianmacroweekly.substack.com
-DTSTAMP:20261109T120805Z
+DTSTAMP:20261109T121202Z
 DTSTART:20261113T133000Z
 DTEND:20261113T140000Z
 SUMMARY:US PPI\, Oct
@@ -24,7 +24,7 @@ URL:https://www.bls.gov/ppi/
 END:VEVENT
 BEGIN:VEVENT
 UID:meridian-2026-11-2@meridianmacroweekly.substack.com
-DTSTAMP:20261109T120805Z
+DTSTAMP:20261109T121202Z
 DTSTART:20261117T133000Z
 DTEND:20261117T140000Z
 SUMMARY:US Import and export prices\, Oct
@@ -33,7 +33,7 @@ URL:https://www.bls.gov/mxp/
 END:VEVENT
 BEGIN:VEVENT
 UID:meridian-2026-11-3@meridianmacroweekly.substack.com
-DTSTAMP:20261109T120805Z
+DTSTAMP:20261109T121202Z
 DTSTART:20261118T100000Z
 DTEND:20261118T103000Z
 SUMMARY:EA HICP final\, Oct
@@ -42,7 +42,7 @@ URL:https://ec.europa.eu/eurostat/web/euro-indicators
 END:VEVENT
 BEGIN:VEVENT
 UID:meridian-2026-11-4@meridianmacroweekly.substack.com
-DTSTAMP:20261109T120805Z
+DTSTAMP:20261109T121202Z
 DTSTART:20261118T190000Z
 DTEND:20261118T193000Z
 SUMMARY:US FOMC minutes\, Oct 27 to 28 meeting
@@ -51,7 +51,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:meridian-2026-11-5@meridianmacroweekly.substack.com
-DTSTAMP:20261109T120805Z
+DTSTAMP:20261109T121202Z
 DTSTART:20261125T133000Z
 DTEND:20261125T140000Z
 SUMMARY:US GDP Q3 second estimate
@@ -60,7 +60,7 @@ URL:https://www.bea.gov/data/gdp/gross-domestic-product
 END:VEVENT
 BEGIN:VEVENT
 UID:meridian-2026-11-6@meridianmacroweekly.substack.com
-DTSTAMP:20261109T120805Z
+DTSTAMP:20261109T121202Z
 DTSTART:20261125T133000Z
 DTEND:20261125T140000Z
 SUMMARY:US Personal income and outlays\, Oct (saving rate)
@@ -69,7 +69,7 @@ URL:https://www.bea.gov/data/income-saving/personal-income
 END:VEVENT
 BEGIN:VEVENT
 UID:meridian-2026-11-7@meridianmacroweekly.substack.com
-DTSTAMP:20261109T120805Z
+DTSTAMP:20261109T121202Z
 DTSTART:20261208T190000Z
 DTEND:20261208T193000Z
 SUMMARY:US FOMC decision\, Dec 8 to 9 meeting
